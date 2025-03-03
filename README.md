@@ -36,7 +36,7 @@ API RESTful para integração de serviços financeiros com autenticação e auto
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/api-financeira.git
+git clone https://github.com/TezottoWell/api-financeira.git
 cd api-financeira
 ```
 
